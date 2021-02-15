@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我们博客-我们一起嗨起来</title>
+  
+  <subtitle>我们博客</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-10T06:30:17.440Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://example.com/2021/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2021/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
+    <published>2021-02-10T06:30:17.000Z</published>
+    <updated>2021-02-10T06:30:17.440Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>祝大家新年快乐</title>
+    <link href="http://example.com/2021/02/10/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>http://example.com/2021/02/10/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
+    <published>2021-02-10T06:15:54.000Z</published>
+    <updated>2021-02-10T06:24:44.192Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客新建，博主祝大家新年快乐。恭喜发财！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客新建，博主祝大家新年快乐。恭喜发财！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的新博客</title>
+    <link href="http://example.com/2021/02/10/hello-world/"/>
+    <id>http://example.com/2021/02/10/hello-world/</id>
+    <published>2021-02-10T02:54:00.000Z</published>
+    <updated>2021-02-10T03:37:21.194Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始使用HEXO写文章啦！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;开始使用HEXO写文章啦！！！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
