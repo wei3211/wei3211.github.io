@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-10T06:30:17.440Z</updated>
+  <updated>2021-02-18T01:25:48.598Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,63 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>图片测试</title>
+    <link href="http://example.com/2021/02/18/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2021/02/18/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-02-18T00:46:34.000Z</published>
+    <updated>2021-02-18T01:25:48.598Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于弄好了。心累<br /><img src="C:%5CUsers%5C1%E3%80%81%5C370409111-5c3339bd1d965_articlex.jpg" alt="370409111-5c3339bd1d965_articlex" /></p><p><a href="C:%5CUsers%5C1%E3%80%81%5C615605084-5c3339bca8055_articlex.png">615605084-5c3339bca8055_articlex</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;终于弄好了。心累&lt;br /&gt;
+&lt;img src=&quot;C:%5CUsers%5C1%E3%80%81%5C370409111-5c3339bd1d965_articlex.jpg&quot; alt=&quot;370409111-5c3339bd1d965_articlex&quot; /&gt;&lt;/p&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新年结束.开始上班了</title>
+    <link href="http://example.com/2021/02/18/%E6%96%B0%E5%B9%B4%E7%BB%93%E6%9D%9F-%E5%BC%80%E5%A7%8B%E4%B8%8A%E7%8F%AD%E4%BA%86/"/>
+    <id>http://example.com/2021/02/18/%E6%96%B0%E5%B9%B4%E7%BB%93%E6%9D%9F-%E5%BC%80%E5%A7%8B%E4%B8%8A%E7%8F%AD%E4%BA%86/</id>
+    <published>2021-02-18T00:37:21.000Z</published>
+    <updated>2021-02-18T01:25:38.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>又可以折腾博客啦~！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;又可以折腾博客啦~！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试文章</title>
     <link href="http://example.com/2021/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2021/02/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
     <published>2021-02-10T06:30:17.000Z</published>
-    <updated>2021-02-10T06:30:17.440Z</updated>
+    <updated>2021-02-18T01:26:05.662Z</updated>
     
+    <content type="html"><![CDATA[<p>测试测试，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试测试，&lt;/p&gt;
+</summary>
+      
     
     
     
