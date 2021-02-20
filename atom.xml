@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-20T01:53:39.049Z</updated>
+  <updated>2021-02-20T03:09:08.085Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>免费CDN推荐:GJCDN 免费全球网站加速 不限制域名后缀</title>
+    <link href="http://example.com/2021/02/20/%E5%85%8D%E8%B4%B9CDN%E6%8E%A8%E8%8D%90-GJCDN-%E5%85%8D%E8%B4%B9%E5%85%A8%E7%90%83%E7%BD%91%E7%AB%99%E5%8A%A0%E9%80%9F-%E4%B8%8D%E9%99%90%E5%88%B6%E5%9F%9F%E5%90%8D%E5%90%8E%E7%BC%80/"/>
+    <id>http://example.com/2021/02/20/%E5%85%8D%E8%B4%B9CDN%E6%8E%A8%E8%8D%90-GJCDN-%E5%85%8D%E8%B4%B9%E5%85%A8%E7%90%83%E7%BD%91%E7%AB%99%E5%8A%A0%E9%80%9F-%E4%B8%8D%E9%99%90%E5%88%B6%E5%9F%9F%E5%90%8D%E5%90%8E%E7%BC%80/</id>
+    <published>2021-02-20T02:51:36.000Z</published>
+    <updated>2021-02-20T03:09:08.085Z</updated>
+    
+    <content type="html"><![CDATA[<p>前言<br>CloudFlare现在国内线路的确有点菜,偶然间在Loc看到了大佬安利这个CDN,在第一时间接入了一个测试域名，感觉整体加速效果还是不错的，节点全是CERA的CN2 GIA。官方介绍说节点主要分布在洛杉矶KT、CERA、香港BGPNET、日本BGPNET、韩国LG等地区。相对于其他CDN来说已经很不错了，默认还提供DDOS防护和CC策略防护！</p><p>1.GJCDN官网<br>GJCDN官网:<a href="https://www.gjcdn.com/">https://www.gjcdn.com/</a></p><p>2.GJCDN特色<br>完全免费：绝无任何强制收费功能（目前也在开发收费版）<br>节点优质：回国网络质量佳，高峰期自动切换网络<br>自研系统：稳定可靠，秒级故障监控<br>智慧防御：极致的CC防御能力，能让经常遭受攻击的网站远离攻击困扰<br>技术支持：付费级技术支持，工单及时响应四、其他帮助<br>3.其他<br>官网帮助文档:<a href="https://www.gjcdn.com/doc/">https://www.gjcdn.com/doc/</a></p><p>4.最后<br>希望各位大佬轻点薅，毕竟好东西不多了，且用且珍惜！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前言&lt;br&gt;
+CloudFlare现在国内线路的确有点菜,偶然间在Loc看到了大佬安利这个CDN,在第一时间接入了一个测试域名，感觉整体加速效果还是不错的，节点全是CERA的CN2 GIA。官方介绍说节点主要分布在洛杉矶KT、CERA、香港BGPNET、日本BGPNET、韩</summary>
+      
+    
+    
+    
+    
+    <category term="CDN" scheme="http://example.com/tags/CDN/"/>
+    
+  </entry>
+  
+  <entry>
     <title>随机小姐姐</title>
     <link href="http://example.com/2021/02/20/%E9%9A%8F%E6%9C%BA%E5%B0%8F%E5%A7%90%E5%A7%90/"/>
     <id>http://example.com/2021/02/20/%E9%9A%8F%E6%9C%BA%E5%B0%8F%E5%A7%90%E5%A7%90/</id>
     <published>2021-02-20T01:48:53.000Z</published>
-    <updated>2021-02-20T01:53:39.049Z</updated>
+    <updated>2021-02-20T03:12:43.005Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://www.hualigs.cn/image/60306aa141f94.jpg"><img src="https://www.hualigs.cn/image/60306ad12770b.jpg"><img src="https://www.hualigs.cn/image/60306af7b6771.jpg"><img src="https://www.hualigs.cn/image/60306b0a54b3d.jpg"><img src="https://www.hualigs.cn/image/60306b1d55f8b.jpg"><img src="https://www.hualigs.cn/image/60306b4bd3d3a.jpg">]]></content>
+    <content type="html"><![CDATA[<img src="https://www.hualigs.cn/image/60307dfd8ca2b.jpg"><img src="https://www.hualigs.cn/image/60306aa141f94.jpg"><img src="https://www.hualigs.cn/image/60306ad12770b.jpg"><img src="https://www.hualigs.cn/image/60306af7b6771.jpg"><img src="https://www.hualigs.cn/image/60306b0a54b3d.jpg"><img src="https://www.hualigs.cn/image/60306b1d55f8b.jpg"><img src="https://www.hualigs.cn/image/60306b4bd3d3a.jpg">]]></content>
     
     
       
       
-    <summary type="html">&lt;img src=&quot;https://www.hualigs.cn/image/60306aa141f94.jpg&quot;&gt;
-&lt;img src=&quot;https://www.hualigs.cn/image/60306ad12770b.jpg&quot;&gt;
+    <summary type="html">&lt;img src=&quot;https://www.hualigs.cn/image/60307dfd8ca2b.jpg&quot;&gt;
+&lt;img src=&quot;https://www.hualigs.cn/image/60306aa141f94.jpg&quot;&gt;
 &lt;img src=&quot;https://www.</summary>
       
     
